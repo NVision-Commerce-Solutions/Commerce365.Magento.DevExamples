@@ -1,0 +1,28 @@
+{
+    "name": "BC",
+    "description": "Rules",
+    "generalAction": "hidden",
+    "rules": [
+        {
+            "id": "AA0214",
+            "action": "hidden",
+            "justification": "AL bug."
+        },
+        {
+            "id": "AA0072",
+            "action": "hidden",
+            "justification": "AL bug."
+        }
+        ,
+        {
+            "id": "AL0432",
+            "action": "hidden",
+            "justification": "AL bug."
+        },
+        {
+            "id": "AS0081",
+            "action": "hidden",
+            "justification": "Internals should be visible to our own apps"
+        }
+    ]
+}

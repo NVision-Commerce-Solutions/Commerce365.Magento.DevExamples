@@ -1,0 +1,7 @@
+*.app
+*.dal
+.altestrunner
+.vscode/launch.json
+.alcache
+.altemplates
+rad.json
